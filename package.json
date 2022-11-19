@@ -11,7 +11,7 @@
     "@storybook/addon-knobs": "^5.2.6",
     "@storybook/addon-links": "^5.2.6",
     "@storybook/addons": "^5.2.6",
-    "@storybook/react": "^5.2.6",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.0.6",
     "babel-preset-react-app": "^9.0.2",
     "react-docgen-typescript-loader": "^3.6.0",
